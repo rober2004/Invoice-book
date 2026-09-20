@@ -7,10 +7,40 @@ subscription, no cloud.
 It was written to replace a folder of Word documents, and it is deliberately
 small: quotes, invoices, progress claims, and the PDFs that go with them.
 
-**[Download the latest version](../../releases/latest)**
+**[Download the latest version](../../releases/latest)** — Windows 10/11, 64-bit.
 
-<!-- Add a screenshot here before sharing this widely. A desktop app without
-     one is a hard sell. Check it for real client names first. -->
+---
+
+### Open it, and it tells you what needs chasing
+
+![Home screen showing overdue invoices, quotes awaiting a response and open jobs](images/04-home.png)
+
+Overdue money, quotes nobody has answered, and jobs still running — worked out
+from the records rather than kept as a list you have to maintain.
+
+### Build a quote and watch the document build itself
+
+![The document editor, with line items on the left and a live PDF preview on the right](images/03-editor.png)
+
+Line items on the left, the actual PDF on the right as you type. Prices come
+from your saved-items list. An accepted quote becomes an invoice without
+retyping any of it.
+
+### Every invoice, and where it stands
+
+![The invoice list, showing draft, unpaid, part paid, overdue and paid invoices](images/01-invoices.png)
+
+Draft, unpaid, part paid, overdue, paid. Nothing here is stored — paid and
+overdue are worked out from the payments and the due date every time the list
+is drawn, so they cannot drift out of step with reality.
+
+### Progress claims that add up across a job
+
+![The jobs list, showing contract value, claimed to date and left to claim](images/02-jobs.png)
+
+Contract value, claimed to date, and what is left. Each claim prints "less
+previously claimed" from the ones before it, and the app says so plainly when a
+job has been over-claimed rather than quietly showing a negative.
 
 ---
 
