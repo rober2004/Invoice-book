@@ -1,0 +1,10 @@
+# Installers are release assets, never repository files.
+#
+# GitHub refuses any file over 100 MiB in a repository, and the 0.1.1 installer
+# is 100.65 MiB — a push carrying it is rejected outright, not warned about. A
+# release asset may be up to 2 GB, which is where it belongs anyway: this
+# repository then stays a few kilobytes however many versions it carries.
+#
+# Keep a build here if it is convenient to drag from. It will not be committed.
+*.exe
+*.blockmap
