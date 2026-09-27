@@ -148,6 +148,10 @@ choose which. Whichever you pick, nothing is deleted.
 This is honest rather than clever, and you should size it accordingly: it is
 fine for two people who take turns. It is not a multi-user system.
 
+**Run the same version on both computers.** How the two hand the folder over
+has changed between releases, and a mix can leave one waiting on a lock the
+other has already let go of.
+
 ---
 
 ## Backups
@@ -181,7 +185,7 @@ the new version has written to your records folder, the older one can no longer
 open it — it will say so clearly and change nothing, but it is a confusing
 minute you can avoid.
 
-## Known limits in 0.1.1
+## Known limits in 0.1.2
 
 - Windows only, 64-bit only.
 - **Australian GST assumptions** throughout — the wording, the ABN field and
